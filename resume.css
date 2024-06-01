@@ -1,0 +1,96 @@
+body{
+    font-size: 40px;
+}
+.main{
+    display:flex;
+    justify-content: space-between;
+    padding: 1px 12px;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    gap: 38px;
+    align-items: center;
+}
+.v{
+    color: black !important;
+}
+li a{
+    text-decoration: none !important;
+}
+h2{
+    margin-bottom: 6px;
+    font-size: 21px;
+}
+h3{
+    font-size: 21px;
+}
+table, tr, th, td, caption{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    font-size: 20px;
+}
+
+button{
+    width: 108px;
+    height: 27px;
+    background-color: white;
+    padding-right: 6px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    border-radius: 7px;
+}
+img{
+    width: 650px;
+    height: 528px;
+    margin-left: 143px;
+    margin-top: 143px;
+    display: flex;
+    border-radius: 50%;
+}
+.image-container{
+    display: flex;
+    align-items: center;
+}
+.image-container img{
+    max-width: 650px;
+    height: 528px;
+    margin: 20px;
+}
+h4{
+    height: 514px;
+    margin-bottom: 127px;
+    width: 253px;
+}
+.html{
+    font-size: 20px;
+}
+.tick1{
+    width: 20px;
+    height: 20px;
+}
+.details-container{
+    padding: 1.5rem;
+    flex: 1;
+    border-radius: 1.5rem;
+    border: rgb(53, 53, 53)0.1rem solid;
+    border-color: black;
+    text-align: initial;
+    display: ruby-text;
+}
+.css{
+    font-size: 20px;
+}
+.Python{
+    font-size: 20px;
+}
+.clang{
+    font-size: 20px;
+}
+.attribution { 
+    font-size: 0.7rem; 
+    text-align: center; 
+    margin-top: 3rem;
+    color: dodgerblue;
+}
